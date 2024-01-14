@@ -28,11 +28,11 @@ const siteProps = {
   title: "Telecom Engineer & Graphic designer",
   email: "aqiba3717@gmail.com",
   gitHub: "https://github.com/AqibAhmed17",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  instagram: "https://www.instagram.com/aqib_ahmed_memon/",
+  linkedIn: "https://www.linkedin.com/in/aqib-ahmed-aa9971234/",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "https://twitter.com/aqiba3717",
+  youTube: "https://www.youtube.com/channel/UCWqLSUMr-1VbsXeUmUZXKjA",
 };
 
 const primaryColor = "#4E567E";
